@@ -12,3 +12,5 @@ https://www.bricklink.com/v2/catalog/catalogitem.page?S=21046-1#T=I or
 https://www.brickowl.com/us/catalog/lego-empire-state-building-set-21046
 
 I don't think that flex comes into play for this particular model, it's extremely well designed. 
+
+Renders Available at https://imgur.com/a/0VgpSdE
