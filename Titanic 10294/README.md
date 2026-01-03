@@ -2,11 +2,13 @@
 
 
 
+1/3/2025 Pivot madness, hinges all over the damn place. 
+
 1/1/2026 Kickoff. I used the official instructions from https://www.lego.com/en-us/service/buildinginstructions/21054
 
 
 
-Step 11 already has pivots, oof. 
+Step 11 already has pivots, oof.
 
 
 
