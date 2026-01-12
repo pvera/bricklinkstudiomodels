@@ -1,8 +1,8 @@
 ### Release notes
 
+1/12/2026 Step 268. 
 
-
-1/11/2026 Step 217, no real surprises except a couple pivots on top. 
+1/11/2026 Step 217, no real surprises except a couple pivots on top.
 
 1/8/2026 Completed section one, Bow and Well Deck, step 139. Spent quite a bit of time learning how to model flexible parts since I needed it for the chains, hoses and the mast cable. I couldn't model the flags as they ship so I just used what was available in Studio. There's some pivot trickery going on in the anchors and the cranes but it wasn't too terrible.
 
