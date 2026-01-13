@@ -1,6 +1,8 @@
 ### Release notes
 
-1/12/2026 Step 268. 
+1/13/2026 Step 299, lot of time wasted getting the cables just right. 
+
+1/12/2026 Step 268.
 
 1/11/2026 Step 217, no real surprises except a couple pivots on top.
 
