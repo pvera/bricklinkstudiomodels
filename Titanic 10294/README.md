@@ -1,6 +1,8 @@
 ### Release notes
 
-1/14/2026 Finished first book, 2693 parts so far, 82 ounces. 
+1/18/2026 10294 end of bag 16. 
+
+1/14/2026 Finished first book, 2693 parts so far, 82 ounces.
 
 1/13/2026 Step 299, lot of time wasted getting the cables just right.
 
