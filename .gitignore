@@ -1,2 +1,5 @@
 # PDFs (build instructions / manuals) — kept locally, not tracked in git
 *.pdf
+
+# Videos — kept locally, not tracked in git
+*.mp4
